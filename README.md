@@ -1,1 +1,1 @@
-# Flame-game
+# flames-game
